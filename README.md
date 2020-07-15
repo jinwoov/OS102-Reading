@@ -18,6 +18,8 @@ Reading Notes for OS102
 
 [Reading 5: Mobile Device](./Readings/Reading5.md)
 
+[Reading 6: Security Controls](./Readings/Reading6.md)
+
 ---
 
 ## Labs
