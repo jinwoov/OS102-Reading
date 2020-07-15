@@ -12,6 +12,12 @@ Reading Notes for OS102
 
 [Reading 2: How to Build a Computer](./Readings/Reading2.md)
 
+[Reading 3: Startup Sequences and B](./Readings/Reading3.md)
+
+[Reading 4: Window OS](./Readings/Reading4.md)
+
+[Reading 5: Mobile Device](./Readings/Reading5.md)
+
 ---
 
 ## Labs
