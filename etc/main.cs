@@ -7,7 +7,9 @@ public class DynamicProgramming{
 
     static int FibonacciNumber(int num)
     {
+        // array storing all of the number;
         int[] dp = new int[num+1];
+        // calling the helper
         fibHelper(n, dp);    
     } 
     public void fibHelper(int n, int[] dp)
@@ -23,6 +25,6 @@ public class DynamicProgramming{
         return dp[n];
     }
 
-    
+
 
 }

@@ -22,6 +22,8 @@ Reading Notes for OS102
 
 [Reading 7: Network Fundamental](./Readings/Reading7.md)
 
+[Reading 8: Network Fundamental](./Readings/Reading8.md)
+
 ---
 
 ## Labs
