@@ -20,6 +20,8 @@ Reading Notes for OS102
 
 [Reading 6: Security Controls](./Readings/Reading6.md)
 
+[Reading 7: Network Fundamental](./Readings/Reading7.md)
+
 ---
 
 ## Labs
